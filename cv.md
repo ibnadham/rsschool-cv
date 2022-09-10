@@ -44,7 +44,7 @@ I had a chance to work and study with a friend of mine for 4 months and learnt C
   * W3Schools
   * Roling Scopes School
 ## Languages
-- Uzbek *Native*
-- English *Advanced*
-- Russian *Upper Intermediate*
-- Turkish *Advanced*
+- Uzbek - *Native*
+- English - *Advanced*
+- Russian - *Upper Intermediate*
+- Turkish - *Advanced*
