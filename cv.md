@@ -36,3 +36,15 @@ console.log(
 ## Experience
 
 I had a chance to work and study with a friend of mine for 4 months and learnt CSS and HTML to an Intermediate level and Javascript bacis
+## Education
+
+* College: Information Technology college of Uychi
+* Courses
+  * FreeCodeCamp
+  * W3Schools
+  * Roling Scopes School
+## Languages
+- Uzbek *Native*
+- English *Advanced*
+- Russian *Upper Intermediate*
+- Turkish *Advanced*
