@@ -20,7 +20,7 @@ After that I took courses on Udemy that gave me more confidence that I can do it
 
 ## Code Example
 
-javascript
+```javascript
 function secondToHour(num){
   var d = 3600*24;
   var year = Math.floor(num/(d*365));
@@ -32,7 +32,7 @@ function secondToHour(num){
 console.log(
  "Years "+year+ " Months " + month + " Days "+ day + " Hours " + hour + " Minutes " + min + " Seconds " + sec );
 };  
-
+```
 ## Experience
 
 I had a chance to work and study with a friend of mine for 4 months and learnt CSS and HTML to an Intermediate level and Javascript bacis
